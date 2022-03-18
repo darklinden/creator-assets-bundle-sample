@@ -1,0 +1,6 @@
+[submodule "common"]
+	path = common
+	url = git@github.com:darklinden/creator-assets-bundle-common.git
+[submodule "bundle-0"]
+	path = bundle-0
+	url = git@github.com:darklinden/creator-assets-bundle-bundle-0.git
